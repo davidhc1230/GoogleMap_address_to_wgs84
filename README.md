@@ -1,2 +1,2 @@
 # GoogleMap_address_to_wgs84
-爬取Google ap各個地址的經緯度資訊，分別使用BeautifulSoup和Selenium兩個方法處理
+爬取Google map各個地址的經緯度資訊，分別使用BeautifulSoup和Selenium兩個方法處理
